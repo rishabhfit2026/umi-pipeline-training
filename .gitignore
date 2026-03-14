@@ -1,0 +1,13 @@
+RDT2/
+mycobot_ros2/
+umi_env/
+outputs/
+shards/
+__pycache__/
+
+*.pt
+*.pth
+*.npy
+*.zarr
+*.tar
+*.log
